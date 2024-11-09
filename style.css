@@ -1,0 +1,58 @@
+body{
+    color:white;
+    background:red;
+    margin:0px;
+    font-family: "Oswald", sans-serif;
+}
+
+header{
+    padding:20px;
+    border-bottom:solid 2px black;
+    font-size:32px
+}
+
+div{
+    background: rgb(13,21,96);
+    padding-bottom:80px;
+    display:flex;
+    justify-content:center;
+    margin-right:20px;
+}
+
+h1{
+font-size:40px;
+
+}
+
+img{
+
+    height:150px;
+}
+
+.categoria-videos {
+    display: flex;
+    overflow-x: auto;
+    gap: 10px;
+}
+
+section {
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+/* código escondido */
+
+p {
+    font-size: 20px;
+}
+
+categoria-videos {
+    
+}
+
+/* código escondido */
+
+.categoria-videos img {
+    opacity 0.5;
+    height: 200px
+}
